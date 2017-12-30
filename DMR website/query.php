@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "1313258";
+$password = "111111";
 $dbname = "DMR";
 
 echo $_POST["fname"];
