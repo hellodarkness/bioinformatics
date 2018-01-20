@@ -1,4 +1,4 @@
- <h3 align="center">A test website to visualize the results of differentially methylated site (DMR) analysis </h3> 
+ <h3 align="center">A test webpage to visualize the results of differentially methylated site (DMR) analysis </h3> 
 
  <br>
     <br>
