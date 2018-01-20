@@ -1,3 +1,5 @@
+//R analysis script using methylMnM peckage
+
 source("http://bioconductor.org/biocLite.R")
 biocLite("edgeR")
 biocLite("statmod")

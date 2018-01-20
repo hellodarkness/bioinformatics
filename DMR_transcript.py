@@ -1,7 +1,7 @@
-//calculate the distance of differentially methylated site (DMR) and transcript in reference genome
-//http://genome.ucsc.edu/cgi-bin/hgTables?hgsid=605193253_5uQOh6j9UyM6veEM8NZgpGxg7Lun
-//transcript file achieved from reference genome
-//browser session: http://epigenomegateway.wustl.edu/browser/?genome=hg19&session=EI1EV6BG4w&statusId=100728609
+# this script calculate the distance of differentially methylated site (DMR) and transcript in reference genome
+# http://genome.ucsc.edu/cgi-bin/hgTables?hgsid=605193253_5uQOh6j9UyM6veEM8NZgpGxg7Lun
+# transcript file achieved from reference genome
+# browser session: http://epigenomegateway.wustl.edu/browser/?genome=hg19&session=EI1EV6BG4w&statusId=100728609
         
 #!/usr/bin/python3
 import pandas
@@ -81,5 +81,5 @@ for v, k in result3.items():
 
 transcript = {}
 for x in range(0, 194):
-    result3.values()[x][2]
+    result3.values()
     transcript[x] = [result.values()[x][2]]
