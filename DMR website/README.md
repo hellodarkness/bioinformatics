@@ -1,5 +1,16 @@
  <h3 align="center">A test website to visualize the results of differentially methylated site (DMR) analysis </h3> 
 
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
